@@ -1,0 +1,5 @@
+{
+    "require": {
+        "moltin/currency": "1.0.*@dev"
+    }
+}
